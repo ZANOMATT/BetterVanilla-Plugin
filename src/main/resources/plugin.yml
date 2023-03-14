@@ -1,0 +1,15 @@
+name: BetterVanilla
+version: 1.0.0
+main: BetterVanilla.plugin.BetterVanilla
+api-version: 1.19
+authors: [ ZANOMATT ]
+description: Plugin tath make vanilla better
+commands:
+  SetHome:
+    description: Set the home at the your position
+  Home:
+    description: tp at the home
+  Homes:
+    description: show homes
+  DelHome:
+    description: delete home
