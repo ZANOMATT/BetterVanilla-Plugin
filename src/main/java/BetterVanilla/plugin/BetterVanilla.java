@@ -1,6 +1,5 @@
 package BetterVanilla.plugin;
 
-import BetterVanilla.comands.home.*;
 import BetterVanilla.home.HomeMaster;
 import org.bukkit.plugin.java.JavaPlugin;
 
